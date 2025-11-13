@@ -6,7 +6,7 @@ metadata:
   labels:
     app: ecommerce-app
 spec:
-  type: LoadBalancer
+  type: ClusterIP
   selector:
     app: ecommerce-app
   ports:
