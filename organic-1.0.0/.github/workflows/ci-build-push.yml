@@ -4,11 +4,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'app/**'
-      - 'Dockerfile'
-      - 'nginx.conf'
-      - '.github/workflows/ci-build-push.yml'
   workflow_dispatch:
 
 env:
