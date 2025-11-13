@@ -1,4 +1,4 @@
-# Setup GitHub Actions IAM User
+## Setup GitHub Actions IAM User
 # Run this script to create an IAM user for GitHub Actions
 
 $ErrorActionPreference = "Stop"
