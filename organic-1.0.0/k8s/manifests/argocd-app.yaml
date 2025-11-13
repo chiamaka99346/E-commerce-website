@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/chiamaka99346/E-commerce-website.git
     targetRevision: main
-    path: k8s/manifests
+    path: organic-1.0.0/k8s/manifests
   
   destination:
     server: https://kubernetes.default.svc
